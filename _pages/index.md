@@ -17,8 +17,10 @@ Webサイト作成の練習として作りました。
 
 
 # 植物の写真
+![image](/assets/images/)
 
 # 景色の写真
+![image](/assets/images/)
 
 
 改行は、行末に半角スペースを2個いれる
