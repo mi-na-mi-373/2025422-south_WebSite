@@ -1,11 +1,11 @@
 ---
-title: "これから勉強したいこと"
+title: "上手に撮れた写真"
 author: default
 permalink: /
 ---
 
 
-こんばんは
+Webサイト作成の練習として作りました。
 
 
 
