@@ -17,7 +17,7 @@ Webサイト作成の練習として作りました。
 
 
 # 植物の写真
-![image](/assets/images/IMG_7264.HEIC)
+![image](/assets/images/image0.jpeg)
 
 # 景色の写真
 ![image](/assets/images/)
