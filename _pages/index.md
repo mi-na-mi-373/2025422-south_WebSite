@@ -13,6 +13,7 @@ Webサイト作成の練習として作りました。
 
 
 # 食べ物の写真
+![image](/assets/images/IMG_0052.JPG)
 
 
 # 植物の写真
